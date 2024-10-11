@@ -1,0 +1,12 @@
+# Directories to ignore
+bin
+lib
+share
+data
+
+# Files to ignore
+lib64
+pyvenv.cfg
+
+# ignore images
+*.png
